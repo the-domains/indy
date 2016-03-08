@@ -1,0 +1,14 @@
+layout_spectrum: 0.9235831
+typography_spectrum: 0.5589844
+color:
+  saturation: 0.5215917
+  lightness: 0.3623123
+  brandStrength: 0.5168275
+  rhythmicContrast: 0.2586654
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: indy
